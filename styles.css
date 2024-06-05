@@ -30,7 +30,7 @@ body {
 
 @media (max-width: 600px) {
     .text-editor {
-        font-size: 16px;
-        padding: 5px;
+        font-size: 20px;
+        padding: 10px;
     }
 }
